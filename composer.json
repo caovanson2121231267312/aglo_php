@@ -1,0 +1,8 @@
+{
+    "name": "caoson/oop",
+    "autoload": {
+        "psr-4": {
+            "Caoson\\Oop\\": "oop/"
+        }
+    }
+}
